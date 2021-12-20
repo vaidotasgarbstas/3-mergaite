@@ -21,13 +21,3 @@ Design: [Mergaite](https://cdn.discordapp.com/attachments/850245533838868480/850
 ## Authors
 
 Vaidotas: [Github](https://github.com/vaidotasgarbstas)
-
-## Code sample
-
-```html
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Serlokas</title>
-</head>
